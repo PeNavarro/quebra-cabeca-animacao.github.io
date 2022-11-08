@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ativa{
+      scale: 1;
+      transition: all ease-in-out 300ms;
+}
